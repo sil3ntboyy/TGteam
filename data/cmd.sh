@@ -19,7 +19,7 @@ memUsed_m=$(($memTotal_m-$memFree_m-$memBuffer_m-$memCache_m))
 
 memUsedPrc=$((($memUsed_b*100)/$memTotal_b))
 
-echo "1🌐Memory: CRITICAL Total: $memTotal_m MB"
+echo "1🌐Memory: Sil3ntboy: $memTotal_m MB"
 echo "💎💎💎💎💎💎💎💎💎"
 echo "2🌐Memory Used: $memUsed_m MB - $memUsedPrc% used!"
 echo "💎💎💎💎💎💎💎💎💎"
@@ -32,5 +32,5 @@ echo "💎💎💎💎💎💎💎💎💎"
 echo '6🌐Processes : '"$ProcessCnt"
 echo "💎💎💎💎💎💎💎💎💎"
 echo '7🌐Uptime : '"$uptime"
-echo "👑Signal Bot👑"
-echo "👑 @Signal_CH 👑"
+echo "👑Sil3ntboy👑"
+echo "👑 @Sil3ntboy 👑"
